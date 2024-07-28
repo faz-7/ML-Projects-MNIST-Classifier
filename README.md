@@ -21,7 +21,9 @@ The MNIST dataset consists of 70,000 images of handwritten digits, each 28x28 pi
 - **Feedforward Neural Network**: A simple architecture consisting of an input layer, hidden layer(s), and an output layer.
 
 ## Confusion Matrix
-A confusion matrix is plotted to visualize the model's performance across different classes.
+A confusion matrix is plotted to visualize the model's performance across different classes:
+
+![Confusion Matrix](images/confusion_matrix.png)
 
 ## Conclusion
 The simple neural network achieves a high accuracy on the MNIST test set, demonstrating the effectiveness of neural networks for image classification tasks.
